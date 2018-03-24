@@ -1,2 +1,2 @@
 # Alba.v2.SPA
-Alba v2 is an update from my monograph that creates it like an API with a SPA
+Alba v2 SPA is a TypeScript frontend based on my monograph project Alba
